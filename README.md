@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=ChristianJayCuevas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianjaycuevas&label=Profile%20views&color=0e75b6&style=flat" alt="christianjaycuevas" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=ChristianJayCuevas&style=flat&color=blue&label=Profile%20Views)
+
 
 
